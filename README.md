@@ -1,27 +1,26 @@
 # 🏦 Loan Approval Prediction System
-
-## 📌 Project Overview
+ Project Overview
 This project predicts whether a loan will be approved or rejected using
 Machine Learning classification algorithms.
 
-## 🚀 Tech Stack
+## Tech Stack
 - Python
 - Pandas, NumPy
 - Scikit-learn
 - Streamlit
 
-## 🧠 Models Used
+##  Models Used
 - Logistic Regression
 - Random Forest Classifier
 
-## 🔁 Workflow
+## Workflow
 1. Data preprocessing
 2. Feature engineering
 3. Model training & evaluation
 4. Model saving
 5. Streamlit deployment
 
-## ▶️ Run Locally
+##  Run Locally
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
